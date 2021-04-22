@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Heesun Yoon, RPA developer in South Korea.
+I'm Heesun Yoon, RPA developer in South Korea. :blush:
+
 <br>
 The company is DIWare, and the working place is CJ CheilJedang.
 <br>
