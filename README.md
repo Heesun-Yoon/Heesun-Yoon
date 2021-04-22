@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm Heesun Yoon, RPA developer in South Korea.
+
+<br>
+
+The company is DIWare, and the working place is CJ CheilJedang.
+
+<br>
+
+I am in charge of RPA operation at CheilJedang.
